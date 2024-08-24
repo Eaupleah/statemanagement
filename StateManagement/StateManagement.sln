@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cookie_", "Cookie_\Cookie_.csproj", "{98626BB9-8D67-4CF4-85B5-77588CB8093C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session_", "Session_\Session_.csproj", "{96724BDC-19AC-4543-BE08-252DFBFA2588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cache_", "Cache_\Cache_.csproj", "{6F06FE0A-CC0D-4D9F-BA51-0C7B5DC65E3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98626BB9-8D67-4CF4-85B5-77588CB8093C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98626BB9-8D67-4CF4-85B5-77588CB8093C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98626BB9-8D67-4CF4-85B5-77588CB8093C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98626BB9-8D67-4CF4-85B5-77588CB8093C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96724BDC-19AC-4543-BE08-252DFBFA2588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96724BDC-19AC-4543-BE08-252DFBFA2588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96724BDC-19AC-4543-BE08-252DFBFA2588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96724BDC-19AC-4543-BE08-252DFBFA2588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F06FE0A-CC0D-4D9F-BA51-0C7B5DC65E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F06FE0A-CC0D-4D9F-BA51-0C7B5DC65E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F06FE0A-CC0D-4D9F-BA51-0C7B5DC65E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F06FE0A-CC0D-4D9F-BA51-0C7B5DC65E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

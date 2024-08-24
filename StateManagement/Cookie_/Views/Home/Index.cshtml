@@ -1,0 +1,64 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    string[] languages = new[]
+    {
+        "C#",
+        "JavaScript",
+        "Python",
+        "Java",
+        "C++",
+        "Ruby",
+        "Swift",
+        "Go",
+        "PHP",
+        "TypeScript"
+    };
+}
+@model string 
+
+@if (Model is not null)
+{
+    <div class="rot mt-5">
+        <div class="col">
+            <h1 class="display-1">Kullandiginiz yazilim dili</h1>
+            <hr/>
+            <h1 class="display-4 text-center rounded shadow-sm bg-warning p-3">@Model</h1>
+            <p class="mt-4">
+                Yeni bir seçim için <a class="btn btn-outline-dark btn-sm" style="background-color: darkred; color: white";  asp-action="remove">Click</a>
+            </p>
+        </div>
+    </div>
+}
+else
+{
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+        <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    </div>
+
+    <div class="w-100"></div>
+
+    <div class="row mt-5">
+        <div class="col">
+            <h1 class="display-4 border-bottom pb-2">Hangi programlama dilini kullanıyorsunuz?</h1>
+            <hr/>
+        </div>
+    </div>
+
+    <form method="post" class="survey-form">
+        <div class="row row-cols-4 shadow-lg p-5">
+            @foreach (var item in languages)
+            {
+                <div class="col mb-5 mt-2">
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" type="radio" value="@item" name="survey" id="@item"/>
+                        <label class="form-check-label" for="@item">@item</label>
+                    </div>
+                </div>
+            }
+            <div class="col-12">
+                <button type="submit" class="btn btn-outline-dark mt-5 float-end btn-sm" style="background-color: #FFC107; color: white;">Onayla</button>
+            </div>
+        </div>
+    </form>
+}

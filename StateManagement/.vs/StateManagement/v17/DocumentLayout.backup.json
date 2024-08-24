@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kamal\\RiderProjects\\StateManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F06FE0A-CC0D-4D9F-BA51-0C7B5DC65E3C}|Cache_\\Cache_.csproj|c:\\users\\kamal\\riderprojects\\statemanagement\\cache_\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F06FE0A-CC0D-4D9F-BA51-0C7B5DC65E3C}|Cache_\\Cache_.csproj|solutionrelative:cache_\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96724BDC-19AC-4543-BE08-252DFBFA2588}|Session_\\Session_.csproj|c:\\users\\kamal\\riderprojects\\statemanagement\\session_\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96724BDC-19AC-4543-BE08-252DFBFA2588}|Session_\\Session_.csproj|solutionrelative:session_\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F06FE0A-CC0D-4D9F-BA51-0C7B5DC65E3C}|Cache_\\Cache_.csproj|c:\\users\\kamal\\riderprojects\\statemanagement\\cache_\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F06FE0A-CC0D-4D9F-BA51-0C7B5DC65E3C}|Cache_\\Cache_.csproj|solutionrelative:cache_\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F06FE0A-CC0D-4D9F-BA51-0C7B5DC65E3C}|Cache_\\Cache_.csproj|c:\\users\\kamal\\riderprojects\\statemanagement\\cache_\\cache_.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6F06FE0A-CC0D-4D9F-BA51-0C7B5DC65E3C}|Cache_\\Cache_.csproj|solutionrelative:cache_\\cache_.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96724BDC-19AC-4543-BE08-252DFBFA2588}|Session_\\Session_.csproj|c:\\users\\kamal\\riderprojects\\statemanagement\\session_\\session_.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{96724BDC-19AC-4543-BE08-252DFBFA2588}|Session_\\Session_.csproj|solutionrelative:session_\\session_.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96724BDC-19AC-4543-BE08-252DFBFA2588}|Session_\\Session_.csproj|c:\\users\\kamal\\riderprojects\\statemanagement\\session_\\services\\sessionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96724BDC-19AC-4543-BE08-252DFBFA2588}|Session_\\Session_.csproj|solutionrelative:session_\\services\\sessionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98626BB9-8D67-4CF4-85B5-77588CB8093C}|Cookie_\\Cookie_.csproj|c:\\users\\kamal\\riderprojects\\statemanagement\\cookie_\\cookie_.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98626BB9-8D67-4CF4-85B5-77588CB8093C}|Cookie_\\Cookie_.csproj|solutionrelative:cookie_\\cookie_.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96724BDC-19AC-4543-BE08-252DFBFA2588}|Session_\\Session_.csproj|c:\\users\\kamal\\riderprojects\\statemanagement\\session_\\session_.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96724BDC-19AC-4543-BE08-252DFBFA2588}|Session_\\Session_.csproj|solutionrelative:session_\\session_.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F06FE0A-CC0D-4D9F-BA51-0C7B5DC65E3C}|Cache_\\Cache_.csproj|c:\\users\\kamal\\riderprojects\\statemanagement\\cache_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F06FE0A-CC0D-4D9F-BA51-0C7B5DC65E3C}|Cache_\\Cache_.csproj|solutionrelative:cache_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Kamal\\RiderProjects\\StateManagement\\Session_\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Session_\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Kamal\\RiderProjects\\StateManagement\\Session_\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Session_\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:54:46.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Kamal\\RiderProjects\\StateManagement\\Cache_\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Cache_\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Kamal\\RiderProjects\\StateManagement\\Cache_\\Models\\Category.cs",
+              "RelativeToolTip": "Cache_\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:54:43.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cache_.http",
+              "DocumentMoniker": "C:\\Users\\Kamal\\RiderProjects\\StateManagement\\Cache_\\Cache_.http",
+              "RelativeDocumentMoniker": "Cache_\\Cache_.http",
+              "ToolTip": "C:\\Users\\Kamal\\RiderProjects\\StateManagement\\Cache_\\Cache_.http",
+              "RelativeToolTip": "Cache_\\Cache_.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-14T08:54:33.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Session_.http",
+              "DocumentMoniker": "C:\\Users\\Kamal\\RiderProjects\\StateManagement\\Session_\\Session_.http",
+              "RelativeDocumentMoniker": "Session_\\Session_.http",
+              "ToolTip": "C:\\Users\\Kamal\\RiderProjects\\StateManagement\\Session_\\Session_.http",
+              "RelativeToolTip": "Session_\\Session_.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-14T08:54:30.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Kamal\\RiderProjects\\StateManagement\\Session_\\Services\\SessionExtension.cs",
+              "RelativeDocumentMoniker": "Session_\\Services\\SessionExtension.cs",
+              "ToolTip": "C:\\Users\\Kamal\\RiderProjects\\StateManagement\\Session_\\Services\\SessionExtension.cs",
+              "RelativeToolTip": "Session_\\Services\\SessionExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:54:23.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Session_",
+              "DocumentMoniker": "C:\\Users\\Kamal\\RiderProjects\\StateManagement\\Session_\\Session_.csproj",
+              "RelativeDocumentMoniker": "Session_\\Session_.csproj",
+              "ToolTip": "C:\\Users\\Kamal\\RiderProjects\\StateManagement\\Session_\\Session_.csproj",
+              "RelativeToolTip": "Session_\\Session_.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T08:53:56.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cookie_",
+              "DocumentMoniker": "C:\\Users\\Kamal\\RiderProjects\\StateManagement\\Cookie_\\Cookie_.csproj",
+              "RelativeDocumentMoniker": "Cookie_\\Cookie_.csproj",
+              "ToolTip": "C:\\Users\\Kamal\\RiderProjects\\StateManagement\\Cookie_\\Cookie_.csproj",
+              "RelativeToolTip": "Cookie_\\Cookie_.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T08:53:55.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Kamal\\RiderProjects\\StateManagement\\Cache_\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Cache_\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Kamal\\RiderProjects\\StateManagement\\Cache_\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Cache_\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABMAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:53:52.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kamal\\RiderProjects\\StateManagement\\Cache_\\Program.cs",
+              "RelativeDocumentMoniker": "Cache_\\Program.cs",
+              "ToolTip": "C:\\Users\\Kamal\\RiderProjects\\StateManagement\\Cache_\\Program.cs",
+              "RelativeToolTip": "Cache_\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:53:17.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

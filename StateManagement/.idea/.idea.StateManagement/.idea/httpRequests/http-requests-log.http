@@ -1,0 +1,186 @@
+﻿GET http://localhost:5273/api/categories/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-08-14T131358.200.json
+
+###
+
+POST http://localhost:5273/api/categories/
+Content-Type: application/json
+Accept: application/json
+Content-Length: 69
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "name": "Category 1",
+  "description": "Category 1 description"
+}
+
+<> 2024-08-14T131356.200.json
+
+###
+
+POST http://localhost:5273/api/categories/
+Content-Type: application/json
+Accept: application/json
+Content-Length: 69
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "name": "Category 1",
+  "description": "Category 1 description"
+}
+
+<> 2024-08-14T130357.200.json
+
+###
+
+GET http://localhost:5273/api/categories/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-08-14T130356.200.json
+
+###
+
+GET http://localhost:5273/api/categories/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-08-14T130136.500.txt
+
+###
+
+GET http://localhost:5273/api/categories/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+###
+
+GET http://localhost:5210/api/categories/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-08-14T114651.500.txt
+
+###
+
+GET http://localhost:5210/api/categories/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-08-14T110959.200.json
+
+###
+
+POST http://localhost:5210/api/categories/
+Content-Type: application/json
+Accept: application/json
+Content-Length: 69
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "name": "Category 1",
+  "description": "Category 1 description"
+}
+
+<> 2024-08-14T110956.200.json
+
+###
+
+POST http://localhost:5210/api/categories/
+Content-Type: application/json
+Accept: application/json
+Content-Length: 69
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "name": "Category 1",
+  "description": "Category 1 description"
+}
+
+<> 2024-08-14T110955.200.json
+
+###
+
+POST http://localhost:5210/api/categories/
+Content-Type: application/json
+Accept: application/json
+Content-Length: 69
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "name": "Category 1",
+  "description": "Category 1 description"
+}
+
+<> 2024-08-14T110953.200.json
+
+###
+
+POST http://localhost:5210/api/categories/
+Content-Type: application/json
+Accept: application/json
+Content-Length: 69
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "name": "Category 1",
+  "description": "Category 1 description"
+}
+
+<> 2024-08-14T110950-1.200.json
+
+###
+
+POST http://localhost:5210/api/categories/
+Content-Type: application/json
+Accept: application/json
+Content-Length: 69
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "name": "Category 1",
+  "description": "Category 1 description"
+}
+
+<> 2024-08-14T110950.200.json
+
+###
+
+POST http://localhost:5210/api/categories/
+Content-Type: application/json
+Accept: application/json
+Content-Length: 69
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "name": "Category 1",
+  "description": "Category 1 description"
+}
+
+<> 2024-08-14T110947.200.json
+
+###
+
